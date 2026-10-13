@@ -15,9 +15,6 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=smritisamparna&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Smriti Samparna's GitHub Trophies" />
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=smritisamparna&theme=dracula&radius=10" alt="smritisamparna's Activity Graph" />
-</p>
 
 
 ## 🛠️ Languages & Tools
@@ -31,4 +28,5 @@
 <p align="center">
   <a href="mailto:smritisamparna@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Smriti Samparna's Email"/></a>
 </p>
+
 
